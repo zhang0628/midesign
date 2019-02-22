@@ -638,6 +638,7 @@ ul.aside {
 .phone{
     /*display: flex;*/
     /*height: 800px;*/
+    width: 100%;
     background: rgba(0,0,0,0.1);
     border: 1px solid white;
 }
@@ -654,7 +655,7 @@ ul.aside {
     display: flex;
   width: 1226px;
     height: 57px;
-    /*background: #ff6700;*/
+    background: #ff6700;
     font-size: 22px;
     font-weight: 200;
     line-height: 57px;
@@ -1378,6 +1379,7 @@ h4{
     border-color: #ff6700;
 }
 .site{
+    width: 100%;
     background-color: white;
     height: 272px;
 }
@@ -1479,6 +1481,7 @@ h4{
     color: white;
 }
 .siteInfo{
+    width: 100%;
     background-color: #fafafa;
     height: 172px;
     padding: 30px 0;
